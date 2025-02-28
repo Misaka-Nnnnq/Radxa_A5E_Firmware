@@ -37,7 +37,7 @@ This image requires Allwinner’s Image tool for installation **if not advised o
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | A527 | openwrt23.05 | SD card | [MEGA](https://mega.nz/file/tbsDHKqS#OdIRNIA9_BI6GwKAd4x6ZGXZs1A9X-GobfMVbL0KjBg) | [@Misaka-Nnnnq](https://github.com/Misaka-Nnnnq) | N/A | 04cde37c9d86d5d7e0b0e3a055bed7ac81536fcfe4b8a1103cbe7f1595db3187 radxa_a5e_a527_openwrt23.05_opkernel_unofficial_sdcard_rev4.7z | [Github](https://github.com/Misaka-Nnnnq/openwrt/tree/23.05-cubie-a5e) |
 
-## 4. MiniArch
+## 4. MiniArch (legacy firmware, DO **NOT** use PhoenixCard/PhoenixSuit)
 | CPU | Version | Type | Download Link | Author | Known bugs | SHA256 | Source |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | A527 | v20250206 | SD card | [Github](https://github.com/warpme/miniarch/releases/download/v20250206/MiniArch-20240715-6.12.12-board-a527.cubie_a5e-SD-Image.img.xz) | [Piotr Oniszczuk](https://github.com/warpme) | N/A | 47179db386ffa7f482f765e77b631518875f24343106c767c6235f411fa35d43 MiniArch-20240715-6.12.12-board-a527.cubie_a5e-SD-Image.img.xz | [Github](https://github.com/warpme/miniarch) |
